@@ -209,7 +209,7 @@ For starters click on this button
 `Note 👎 PLease fill all the Vars in [ available config vars](../config/README.md) carefully `
 
 ```console
-Axel@MacBook~ $ git clone https://github.com/aksr-aashish/vexana
+Axel@MacBook~ $ git clone https://github.com/jpriyanshu772/vexana
 Axel@MacBook~ $ cd vexana
 Axel@MacBook~ $ sudo bash setup
 ```
